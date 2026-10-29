@@ -1,7 +1,5 @@
 streamlit
-fastapi
-uvicorn
-yfinance
 pandas
 numpy
+yfinance
 plotly
